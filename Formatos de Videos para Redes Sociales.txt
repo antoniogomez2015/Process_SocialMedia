@@ -1,0 +1,112 @@
+
+
+
+	Medidas de sources, de las diferentes redes sociales
+
+		https://ignaciosantiago.com/medidas-redes-sociales/
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Facebook:
+	_________
+
+
+
+	
+		Proporciones:
+		_____________
+
+
+			_videos en horizontal:  16:9 
+
+			_Videos en vertical:  9:16
+
+
+			_Video de Cabecera: 820 x 312px | duración de entre: 20 - 90, segundos
+
+
+			NOTA: pixel cuadrado para videos en facebook, así, como también, un frame rate, de "30f",
+
+			como máximo
+
+			_codificación de velocidad: "VBR: 2 Pases"
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+	Instagram:
+	__________
+
+
+		
+		Proporciones:
+		_____________
+
+
+			_Videos en horizontal:   1,91:1
+
+			_Videos en vertical:  4:5
+
+			_Videos en formato Cuadrado:   1:1 
+
+
+		
+
+		Resouciones:
+		____________
+
+	
+			_Horizontal: 600 x 315px  |  1,91:1
+
+			_Vertical:  600 x 750px:  |  4:5
+
+			_Cuadrado:  600 x 600px  |  1:1
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+	Twitter:
+	________
+
+	
+
+		Proporciones:
+		_____________
+
+
+			_Videos en horizontal:   3:1 a 3:1
+
+			_Videos en vertical:   4:5
+
+			_Videos en formato Cuadrado:   1:1
+
+
+
+		Resoluciones:
+		_____________
+
+
+	
+			_Horizontal: 32 x 32px  |  1,91:1 (resolución mínima)
+
+			_Horizontal: 1280 x 1024px  |  1,91:1 (resolución máxima)
+
+			_Óptimo 16:9  |  1:1
+
+
+
+
+
+

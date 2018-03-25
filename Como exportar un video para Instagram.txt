@@ -1,0 +1,49 @@
+
+
+
+
+
+	Instagram
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Ajustes para exportar vídeo para Instagram a la máxima calidad
+
+
+		https://www.youtube.com/watch?v=P7jRaiLauYY
+
+
+
+
+	_Dimensiones: 640 x360px | 640 x 640px
+
+	_Formato: H.264
+
+	_Formato de Audio: AC-CL
+
+		_Velocidad de Muestreo del Audio: 44100Hz
+
+		_Velocidad del Audio: 160Kbps
+
+
+	_Nivel: 3.1 (opcional de proporción de aspecto)
+
+	_Frame Rate: 29,97
+
+	_Bit Rate: VBR: 2 pasos (2,5 a 4)
+
+
+
+
+
+	
+	
+
+
+
+
+

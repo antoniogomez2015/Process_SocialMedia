@@ -1,0 +1,94 @@
+
+
+
+
+
+	YouTube
+
+		https://support.google.com/youtube/answer/1722171?hl=es
+
+
+
+			CÓMO EXPORTAR EN HD PARA YOUTUBE | Cap: 27 | Curso Adobe Premiere Pro CC
+
+				https://www.youtube.com/watch?v=3HIGJ_CDozU
+
+
+			CÓMO EXPORTAR EN 4K PARA YOUTUBE | Cap: 28 | Curso Adobe Premiere Pro CC 
+
+				https://www.youtube.com/watch?v=nPbRKZWaiaU
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+
+	_Formato: .Mp4
+
+	_Code de Audio: AAC-LC
+
+	_Video Code: H.264
+
+
+
+	_Frame Rate SDR (Standar Definition Recording):
+
+
+		Tipo	Frecuencia de bits, Frecuencia de imagen estándar
+		(24, 25, 30)	Frecuencia de bits, Frecuencia de imagen alta (48, 50, 60)
+
+
+		_2160p (4k)	35-45 Mbps	53-68 Mbps
+	
+		_1440p (2k)	16 Mbps	24 Mbps
+
+		_1080p	8 Mbps	12 Mbps
+
+		_720p	5 Mbps	7,5 Mbps
+
+		_480p	2,5 Mbps	4 Mbps
+
+		_360p	1 Mbps	1,5 Mbps
+
+
+
+	_Frame Rate HDR (High Definition Recording):
+
+
+		Tipo	Frecuencia de bits, Frecuencia de imagen estándar
+		(24, 25, 30)	Frecuencia de bits, Frecuencia de imagen alta (48, 50, 60)
+
+
+		_2160p (4k)	44-56 Mbps	66-85 Mbps
+
+		_1440p (2k)	20 Mbps	30 Mbps
+
+		_1080p	10 Mbps	15 Mbps
+
+		_720p	6,5 Mbps	9,5 Mbps
+
+		_480p	Incompatible Incompatible
+
+		_360p	Incompatible	Incompatible
+
+
+
+
+	
+	_Frecuencias de bits de audio recomendadas para las subidas
+
+		_Tipo	Frecuencia de bits de audio
+
+		_Mono	128 Kbps
+
+		_Estéreo  384 Kbps
+
+		_5.1	512 Kbps
+
+
+
+
